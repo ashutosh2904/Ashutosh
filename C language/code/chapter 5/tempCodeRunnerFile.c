@@ -1,0 +1,1 @@
+printpattern(n - 1);
